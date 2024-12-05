@@ -1,0 +1,7 @@
+C:\BIWW\DotNET\SampleApp\bin\Release\SampleApp.exe.config
+C:\BIWW\DotNET\SampleApp\bin\Release\SampleApp.exe
+C:\BIWW\DotNET\SampleApp\bin\Release\SampleApp.pdb
+C:\BIWW\DotNET\SampleApp\obj\Release\SampleApp.csproj.AssemblyReference.cache
+C:\BIWW\DotNET\SampleApp\obj\Release\SampleApp.csproj.CoreCompileInputs.cache
+C:\BIWW\DotNET\SampleApp\obj\Release\SampleApp.exe
+C:\BIWW\DotNET\SampleApp\obj\Release\SampleApp.pdb
