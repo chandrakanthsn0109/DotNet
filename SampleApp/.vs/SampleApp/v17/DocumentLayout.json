@@ -3,38 +3,38 @@
   "WorkspaceRootPath": "C:\\BIWW\\DotNET\\SampleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|C:\\BIWW\\DotNET\\SampleApp\\bikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:bikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|C:\\BIWW\\DotNET\\SampleApp\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SampleApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|C:\\BIWW\\DotNET\\SampleApp\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\multiarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:multiarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|C:\\BIWW\\DotNET\\SampleApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\bikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:bikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|C:\\BIWW\\DotNET\\SampleApp\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|C:\\BIWW\\DotNET\\SampleApp\\multiarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:multiarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|C:\\BIWW\\DotNET\\SampleApp\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SampleApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,16 +44,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "SampleApp",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\SampleApp.csproj",
               "RelativeDocumentMoniker": "SampleApp.csproj",
-              "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\SampleApp.csproj",
-              "RelativeToolTip": "SampleApp.csproj",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\SampleApp.csproj*",
+              "RelativeToolTip": "SampleApp.csproj*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-05T04:49:33.533Z",
               "IsPinned": true,
@@ -61,20 +61,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Enum.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Enum.cs",
               "RelativeDocumentMoniker": "Enum.cs",
               "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\Enum.cs",
               "RelativeToolTip": "Enum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T05:04:14.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MultiArray.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\MultiArray.cs",
               "RelativeDocumentMoniker": "MultiArray.cs",
@@ -82,25 +82,24 @@
               "RelativeToolTip": "MultiArray.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T05:02:06.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T05:02:06.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Bikes.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Bikes.cs",
               "RelativeDocumentMoniker": "Bikes.cs",
               "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\Bikes.cs",
               "RelativeToolTip": "Bikes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T06:28:49.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Type.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Type.cs",
               "RelativeDocumentMoniker": "Type.cs",
@@ -108,12 +107,11 @@
               "RelativeToolTip": "Type.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:45:35.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T06:45:35.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Loop.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Loop.cs",
               "RelativeDocumentMoniker": "Loop.cs",
@@ -126,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Condition.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Condition.cs",
               "RelativeDocumentMoniker": "Condition.cs",
@@ -134,18 +132,17 @@
               "RelativeToolTip": "Condition.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T04:52:37.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T04:52:37.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T04:48:51.043Z",
               "EditorCaption": ""

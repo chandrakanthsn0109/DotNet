@@ -1,0 +1,7 @@
+C:\BIWW\DotNET\Generics\bin\Debug\Generics.exe.config
+C:\BIWW\DotNET\Generics\bin\Debug\Generics.exe
+C:\BIWW\DotNET\Generics\bin\Debug\Generics.pdb
+C:\BIWW\DotNET\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\BIWW\DotNET\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\BIWW\DotNET\Generics\obj\Debug\Generics.exe
+C:\BIWW\DotNET\Generics\obj\Debug\Generics.pdb
