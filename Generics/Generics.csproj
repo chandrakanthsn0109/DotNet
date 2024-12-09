@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Generics.Program</StartupObject>
+    <StartupObject>Generics.Distinct</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayList.cs" />
+    <Compile Include="Distinct.cs" />
     <Compile Include="GenericClass.cs" />
     <Compile Include="GenericString.cs" />
     <Compile Include="Integer.cs" />
