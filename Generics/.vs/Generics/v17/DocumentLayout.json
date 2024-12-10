@@ -3,7 +3,22 @@
   "WorkspaceRootPath": "C:\\BIWW\\DotNET\\Generics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|C:\\BIWW\\DotNET\\Generics\\integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|c:\\biww\\dotnet\\generics\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|solutionrelative:delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Generics||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|c:\\biww\\dotnet\\generics\\refout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|solutionrelative:refout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|C:\\BIWW\\DotNET\\Generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|c:\\biww\\dotnet\\generics\\integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|solutionrelative:integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,15 +26,8 @@
       "RelativeMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|solutionrelative:linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|c:\\biww\\dotnet\\generics\\distinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|C:\\BIWW\\DotNET\\Generics\\distinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|solutionrelative:distinct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Generics||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|C:\\BIWW\\DotNET\\Generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|C:\\BIWW\\DotNET\\Generics\\genericstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,6 +36,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|C:\\BIWW\\DotNET\\Generics\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|solutionrelative:genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774FAE67-1B1B-4401-B2C5-F1A8AFF959E3}|Generics.csproj|c:\\biww\\dotnet\\generics\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,11 +48,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\Generics\\Delegate.cs",
+              "RelativeDocumentMoniker": "Delegate.cs",
+              "ToolTip": "C:\\BIWW\\DotNET\\Generics\\Delegate.cs",
+              "RelativeToolTip": "Delegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:30:53.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Generics",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\Generics\\Generics.csproj",
+              "RelativeDocumentMoniker": "Generics.csproj",
+              "ToolTip": "C:\\BIWW\\DotNET\\Generics\\Generics.csproj",
+              "RelativeToolTip": "Generics.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T04:56:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "RefOut.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\Generics\\RefOut.cs",
+              "RelativeDocumentMoniker": "RefOut.cs",
+              "ToolTip": "C:\\BIWW\\DotNET\\Generics\\RefOut.cs",
+              "RelativeToolTip": "RefOut.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwD4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:48:11.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Distinct.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\Generics\\Distinct.cs",
               "RelativeDocumentMoniker": "Distinct.cs",
@@ -49,12 +98,11 @@
               "RelativeToolTip": "Distinct.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwDkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:23:57.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T04:23:57.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Linq.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\Generics\\Linq.cs",
               "RelativeDocumentMoniker": "Linq.cs",
@@ -62,48 +110,37 @@
               "RelativeToolTip": "Linq.cs",
               "ViewState": "AgIAAKYAAAAAAAAAAAAmwLQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:20:01.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T11:20:01.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Generics",
-              "DocumentMoniker": "C:\\BIWW\\DotNET\\Generics\\Generics.csproj",
-              "RelativeDocumentMoniker": "Generics.csproj",
-              "ToolTip": "C:\\BIWW\\DotNET\\Generics\\Generics.csproj",
-              "RelativeToolTip": "Generics.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-05T06:31:41.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\Generics\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\BIWW\\DotNET\\Generics\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:18:35.891Z"
+              "WhenOpened": "2024-12-05T06:18:35.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Integer.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\Generics\\Integer.cs",
               "RelativeDocumentMoniker": "Integer.cs",
               "ToolTip": "C:\\BIWW\\DotNET\\Generics\\Integer.cs",
               "RelativeToolTip": "Integer.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T06:29:15.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "GenericString.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\Generics\\GenericString.cs",
               "RelativeDocumentMoniker": "GenericString.cs",
@@ -115,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "GenericClass.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\Generics\\GenericClass.cs",
               "RelativeDocumentMoniker": "GenericClass.cs",
