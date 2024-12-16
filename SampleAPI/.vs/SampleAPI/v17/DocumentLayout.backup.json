@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BIWW\\DotNET\\SampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|c:\\biww\\dotnet\\sampleapi\\controllers\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|solutionrelative:controllers\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|c:\\biww\\dotnet\\sampleapi\\sampleapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|solutionrelative:sampleapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|c:\\biww\\dotnet\\sampleapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|c:\\biww\\dotnet\\sampleapi\\sampleapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|solutionrelative:sampleapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|c:\\biww\\dotnet\\sampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|c:\\biww\\dotnet\\sampleapi\\model\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|solutionrelative:model\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|c:\\biww\\dotnet\\sampleapi\\sampleapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|solutionrelative:sampleapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|c:\\biww\\dotnet\\sampleapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|c:\\biww\\dotnet\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D9A7E6-E82F-4D01-A61C-EE655A2D5E5E}|SampleAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleAPI\\Controllers\\HeroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HeroController.cs",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleAPI\\Controllers\\HeroController.cs",
+              "RelativeToolTip": "Controllers\\HeroController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:14:25.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SampleAPI.http",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleAPI\\SampleAPI.http",
+              "RelativeDocumentMoniker": "SampleAPI.http",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleAPI\\SampleAPI.http",
+              "RelativeToolTip": "SampleAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-14T07:13:01.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T07:11:27.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleAPI\\Model\\Hero.cs",
+              "RelativeDocumentMoniker": "Model\\Hero.cs",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleAPI\\Model\\Hero.cs",
+              "RelativeToolTip": "Model\\Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:47:37.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SampleAPI",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleAPI\\SampleAPI.csproj",
+              "RelativeDocumentMoniker": "SampleAPI.csproj",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleAPI\\SampleAPI.csproj",
+              "RelativeToolTip": "SampleAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T06:47:01.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:49:30.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SampleAPI",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleAPI\\SampleAPI.csproj",
+              "RelativeDocumentMoniker": "SampleAPI.csproj",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleAPI\\SampleAPI.csproj",
+              "RelativeToolTip": "SampleAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T06:51:02.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:38:40.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:38:32.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

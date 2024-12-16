@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\BIWW\\DotNET\\SampleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|C:\\BIWW\\DotNET\\SampleApp\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:lists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SampleApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|C:\\BIWW\\DotNET\\SampleApp\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|c:\\biww\\dotnet\\sampleapp\\bikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|C:\\BIWW\\DotNET\\SampleApp\\bikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{725AC099-3768-4DEE-ADBE-8883DD57F811}|SampleApp.csproj|solutionrelative:bikes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -52,16 +52,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SampleApp",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\SampleApp.csproj",
               "RelativeDocumentMoniker": "SampleApp.csproj",
-              "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\SampleApp.csproj*",
-              "RelativeToolTip": "SampleApp.csproj*",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\SampleApp.csproj",
+              "RelativeToolTip": "SampleApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-05T04:49:33.533Z",
               "IsPinned": true,
@@ -69,33 +69,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lists.cs",
-              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Lists.cs",
-              "RelativeDocumentMoniker": "Lists.cs",
-              "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\Lists.cs",
-              "RelativeToolTip": "Lists.cs",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:15:20.732Z",
+              "WhenOpened": "2024-12-16T09:17:37.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Generics.cs",
-              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Generics.cs",
-              "RelativeDocumentMoniker": "Generics.cs",
-              "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\Generics.cs",
-              "RelativeToolTip": "Generics.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Class.cs",
+              "RelativeDocumentMoniker": "Class.cs",
+              "ToolTip": "C:\\BIWW\\DotNET\\SampleApp\\Class.cs",
+              "RelativeToolTip": "Class.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T06:09:25.735Z",
+              "WhenOpened": "2024-12-16T09:15:49.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Enum.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\SampleApp\\Enum.cs",
               "RelativeDocumentMoniker": "Enum.cs",
@@ -128,8 +128,7 @@
               "RelativeToolTip": "Bikes.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T06:28:49.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T06:28:49.843Z"
             },
             {
               "$type": "Document",
@@ -153,8 +152,7 @@
               "RelativeToolTip": "Loop.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T04:56:05.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T04:56:05.509Z"
             },
             {
               "$type": "Document",
@@ -178,8 +176,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T04:48:51.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T04:48:51.043Z"
             }
           ]
         }
