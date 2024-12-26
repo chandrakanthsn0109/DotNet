@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CoreApiEF.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\PetMvc\\PetMvc.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
