@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "BMSApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\BMSMvc\\BMSMvc.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

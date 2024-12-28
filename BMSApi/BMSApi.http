@@ -1,0 +1,6 @@
+@BMSApi_HostAddress = http://localhost:5174
+
+GET {{BMSApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

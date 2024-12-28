@@ -1,0 +1,13 @@
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\BIWW\DotNET\BMSApi\obj\Debug\net8.0\staticwebassets.build.json

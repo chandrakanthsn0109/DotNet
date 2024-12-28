@@ -21,7 +21,7 @@ namespace CoreApiEF.Controllers
             _context = context;
         }
 
-        // GET: api/PetAnimals
+         //GET: api/PetAnimals
         [HttpGet]
         public async Task<ActionResult<IEnumerable<PetAnimal>>> GetPetAnimals()
         {

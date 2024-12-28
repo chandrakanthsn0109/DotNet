@@ -6,14 +6,14 @@
       "AbsoluteMoniker": "D:0:0:{A89B7889-6783-445F-90EB-2EF53BE27AC7}|..\\PetMvc\\PetMvc.csproj|c:\\biww\\dotnet\\petmvc\\controllers\\petmvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{738D6AC8-CDA3-4318-93E3-7A9C3BA74FB5}|CoreApiEF.csproj|c:\\biww\\dotnet\\coreapief\\controllers\\petanimalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738D6AC8-CDA3-4318-93E3-7A9C3BA74FB5}|CoreApiEF.csproj|solutionrelative:controllers\\petanimalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A89B7889-6783-445F-90EB-2EF53BE27AC7}|..\\PetMvc\\PetMvc.csproj|c:\\biww\\dotnet\\petmvc\\views\\petmvc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A89B7889-6783-445F-90EB-2EF53BE27AC7}|..\\PetMvc\\PetMvc.csproj|c:\\biww\\dotnet\\petmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{738D6AC8-CDA3-4318-93E3-7A9C3BA74FB5}|CoreApiEF.csproj|c:\\biww\\dotnet\\coreapief\\controllers\\petanimalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{738D6AC8-CDA3-4318-93E3-7A9C3BA74FB5}|CoreApiEF.csproj|solutionrelative:controllers\\petanimalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A89B7889-6783-445F-90EB-2EF53BE27AC7}|..\\PetMvc\\PetMvc.csproj|c:\\biww\\dotnet\\petmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -60,7 +60,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\PetMvc\\Views\\PetMvc\\Create.cshtml",
               "RelativeDocumentMoniker": "..\\PetMvc\\Views\\PetMvc\\Create.cshtml",
@@ -68,12 +68,11 @@
               "RelativeToolTip": "..\\PetMvc\\Views\\PetMvc\\Create.cshtml",
               "ViewState": "AgIAADUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T12:21:19.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T12:21:19.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\PetMvc\\Program.cs",
               "RelativeDocumentMoniker": "..\\PetMvc\\Program.cs",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "..\\PetMvc\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T10:02:02.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T10:02:02.033Z"
             },
             {
               "$type": "Document",
@@ -92,20 +90,20 @@
               "RelativeDocumentMoniker": "..\\PetMvc\\Controllers\\PetMvcController.cs",
               "ToolTip": "C:\\BIWW\\DotNET\\PetMvc\\Controllers\\PetMvcController.cs",
               "RelativeToolTip": "..\\PetMvc\\Controllers\\PetMvcController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwEkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T09:19:25.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "PetAnimalsController.cs",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\CoreApiEF\\Controllers\\PetAnimalsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PetAnimalsController.cs",
               "ToolTip": "C:\\BIWW\\DotNET\\CoreApiEF\\Controllers\\PetAnimalsController.cs",
               "RelativeToolTip": "Controllers\\PetAnimalsController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAuwG4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwFUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T17:00:25.176Z",
               "EditorCaption": ""
@@ -113,15 +111,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "PetMvc",
+              "Title": "PetMvc.csproj",
               "DocumentMoniker": "C:\\BIWW\\DotNET\\PetMvc\\PetMvc.csproj",
               "RelativeDocumentMoniker": "..\\PetMvc\\PetMvc.csproj",
               "ToolTip": "C:\\BIWW\\DotNET\\PetMvc\\PetMvc.csproj",
               "RelativeToolTip": "..\\PetMvc\\PetMvc.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-26T09:21:35.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T09:21:35.32Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "RelativeToolTip": "..\\PetMvc\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T17:25:50.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T17:25:50.462Z"
             },
             {
               "$type": "Document",
@@ -146,8 +142,7 @@
               "RelativeToolTip": "Models\\PetAnimal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T05:00:33.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T05:00:33.207Z"
             },
             {
               "$type": "Document",
@@ -159,8 +154,7 @@
               "RelativeToolTip": "Models\\PetValidator.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAACNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T07:00:54.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T07:00:54.794Z"
             },
             {
               "$type": "Document",
@@ -184,8 +178,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAwwA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T04:58:49.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T04:58:49.438Z"
             },
             {
               "$type": "Document",
