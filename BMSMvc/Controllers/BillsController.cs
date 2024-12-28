@@ -60,7 +60,7 @@ namespace BMSMvc.Controllers
                     }
                     else
                     {
-                        ModelState.AddModelError(string.Empty, "Error creating pet animal.");
+                        ModelState.AddModelError(string.Empty, "Error creating Bills.");
                     }
                 }
             }
